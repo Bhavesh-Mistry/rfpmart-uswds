@@ -191,7 +191,7 @@
 											<a href="sample-pages-faq.html">FAQ</a>
 										</li>
 										<li class="usa-nav__submenu-item">
-											<a href="pricing.php">Pricing</a>
+											<a href="pricing.html">Pricing</a>
 										</li>
 									</ul>
 								</div>

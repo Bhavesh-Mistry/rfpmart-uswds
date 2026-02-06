@@ -381,7 +381,7 @@
             </div>
             <div class="grid-row grid-gap-2">
                <p class="text-center padding-top-3">
-                  If you have not found your preferred monthly subscription plan in above options or looking for customized options, then please <a href="#" class="usa-link padding-2px text-no-underline">send us an email via Contact us Tab.</a>
+                  If you have not found your preferred monthly subscription plan in above options or looking for customized options, then please <a href="#" class="usa-link padding-2px text-bold text-no-underline">send us an email via Contact us Tab.</a>
                </p>
             </div>
          </div>
