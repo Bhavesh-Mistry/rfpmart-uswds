@@ -193,6 +193,9 @@
 										<li class="usa-nav__submenu-item">
 											<a href="pricing.html">Pricing</a>
 										</li>
+										<li class="usa-nav__submenu-item">
+											<a href="home.html">Home</a>
+										</li>
 									</ul>
 								</div>
 							</div>
