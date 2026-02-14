@@ -16,6 +16,9 @@ https://bhavesh-mistry.github.io/rfpmart-uswds/
 **Pricing Page**  
 https://bhavesh-mistry.github.io/rfpmart-uswds/pricing.html
 
+**Landing Page (Home Page)**  
+https://bhavesh-mistry.github.io/rfpmart-uswds/home.html
+
 ---
 
 ## 📄 Description
@@ -23,6 +26,7 @@ https://bhavesh-mistry.github.io/rfpmart-uswds/pricing.html
 A new **Pricing & Subscription** page was added to the project, presenting **monthly and annual plans** using USWDS-compliant layouts and components.
 
 Key highlights:
+
 - Uses **USWDS grid and card components**
 - Clear visual hierarchy and consistent spacing
 - Accessible typography and color contrast
@@ -43,5 +47,4 @@ The page was created as a new template and integrated into the existing site nav
 
 ## 👤 Author
 
-**Bhavesh Mistry**  
-
+**Bhavesh Mistry**
