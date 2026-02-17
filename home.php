@@ -296,6 +296,63 @@
          </div>
       </section>
 
+      <!-- <section class="grid-container usa-section">
+         <div class="grid-row grid-gap-4">
+               <div class="widescreen:grid-col-12 tablet:grid-col-12">
+                  <h2 class="font-heading-xl">
+                     Ready to Build Something Great?
+                  </h2>
+                  <p class="font-heading-md text-base line-height-sans-6">
+                     Explore our library of free templates and start building accessible, USWDS-compliant digital experiences today.
+                  </p>
+                   <a href="#" class="usa-button  margin-top-3 tablet:margin-top-4">
+                     Browse All Templates
+                  </a>
+               </div>
+         </div>
+      </section> -->
+      
+      <section class="grid-container usa-section padding-top-3">
+         <div class="grid-row grid-gap-4">
+               <div class="widescreen:grid-col-5 tablet:grid-col-5">
+                  <h2 class="font-heading-xl">
+                     Stay Informed. <br>Stay Safe.
+                  </h2>
+
+                  <p class="font-heading-md text-base line-height-sans-6">
+                     Sign up for emergency alerts, community updates, and safety news!
+                  </p>
+               </div>
+               <div class="widescreen:grid-col-7 tablet:grid-col-7 display-flex flex-justify-center">
+                  <form class="usa-form usa-form--large margin-bottom-3 width-full bg-primary-lighter shadow-4">
+                     <fieldset class="usa-fieldset margin-left-2 margin-right-2 margin-bottom-2 display-flex flex-column flex-align-stretch">
+                           <label class="usa-label" for="given-name">Full Name:</label>
+                           <input
+                              class="usa-input"
+                              id="given-name"
+                              name="first-name"
+                              aria-describedby="gnHint" />
+                           <label class="usa-label" for="family-name">Email (Required):</label>
+                           <input
+                              class="usa-input"
+                              id="family-name"
+                              name="last-name"
+                              aria-describedby="lnHint"
+                              required />
+                           <!-- <label class="usa-label" for="family-name">Zip Code (Required):</label>
+                           <input
+                              class="usa-input"
+                              id="family-name"
+                              name="last-name"
+                              aria-describedby="lnHint"
+                              required /> -->
+                           <input class="usa-button margin-0" type="submit" value="Subscribe" />
+                     </fieldset>
+                  </form>
+               </div>
+         </div>
+      </section>
+
       <section class="usa-section grid-container padding-top-0">
          <div class="margin-bottom-4 border-bottom-05">
                <h2 class="font-heading-xl">
